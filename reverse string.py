@@ -1,3 +1,4 @@
+#This reverses how words appear
 def reverse_string(text): #This reverses a string using a for loop
     reversed_text = ""
     for char in text:
