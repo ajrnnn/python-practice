@@ -1,3 +1,4 @@
+#This does sum list of elements
 def sum_list(numbers):
     total = 0  # Start with 0
     for num in numbers:
