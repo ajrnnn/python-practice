@@ -1,3 +1,4 @@
+# This does a factorial using loop
 def factorial_loop(n):
     result = 1
     for i in range(1, n + 1):  # Multiply from 1 to n
